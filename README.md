@@ -1,7 +1,11 @@
 # VBREG
 Vector-Based REG v1.0
 
-The VB-REG model is origionally developed within C# (which is developed as a compoent of a big project). 
+The VB-REG model is performing the fully statistical REG. The model aims to select attributes (the classic REG) as well as generating actual referental NPs (to discrib the target object within a domain)
+The moedel regards REG as a special case of a generic approach to NLG.
+For detail please the paper "Statistical NLG for Generating the Content and Form of Referring Expressions" (http://www.aclweb.org/anthology/W18-6561).
+
+The model is origionally developed within C# (which is developed as a compoent of a big project). 
 
 The evaluation outcomes in the paper "Statistical NLG for Generating the Content and Form of Referring Expressions" is based on the C# version.
 
