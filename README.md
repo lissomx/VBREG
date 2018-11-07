@@ -10,6 +10,8 @@ For this repository, the VB-REG model is rewriten as an indipendent project (wit
 For any question or bugs reporting, please email me (xiao[dot]li [at] abdn[dot]ac[dot]uk).
 
 
-Manual:
+# Manual:
 
 REG_Samples.py is runable. It is the basic use case that how to load training corpus, train the VB-REG model, and generate the NPs.
+
+To see the outcomes of the example, please simply run the file REG_Samples.py.
